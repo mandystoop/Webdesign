@@ -1,7 +1,7 @@
 # Groepsopdracht: Bouw een Website met HTML en CSS
 
 ## Leerdoel
-Deze opdracht helpt studenten om bekend te raken met het DOT-framework voor ICT-onderzoek en de basisprincipes van HTML te leren. Aan het einde van deze opdracht zullen studenten als groep een overkoepelende website hebben gemaakt waarin de verschillende fasen, methodes en research patterns van het DOT-framework worden toegelicht door gebruik te maken van verschillende gelinkte webpagina's met bijbehorende CSS.
+Deze opdracht helpt  om bekend te raken met het DOT-framework voor ICT-onderzoek en de basisprincipes van HTML te leren. Aan het einde van deze opdracht zullen studenten als groep een overkoepelende website hebben gemaakt waarin de verschillende fasen, methodes en research patterns van het DOT-framework worden toegelicht door gebruik te maken van verschillende gelinkte webpagina's met bijbehorende CSS.
 
 ## Materialen
 - ICT Research Methods
@@ -11,7 +11,7 @@ Deze opdracht helpt studenten om bekend te raken met het DOT-framework voor ICT-
 ## Opdrachtbeschrijving
 
 1. **Groepsindeling en Planning**
-   - Verdeel de studenten in groepen van 4-5 personen.
+   - Maak groepen van 3-4 personen.
    - Laat elke groep een projectplan opstellen met een tijdlijn en taakverdeling.
 
 2. **Onderzoek en Voorbereiding**
@@ -35,7 +35,7 @@ Deze opdracht helpt studenten om bekend te raken met het DOT-framework voor ICT-
 6. **Integratie en Testen**
    - Integreer alle HTML- en CSS-bestanden in een samenhangende website.
    - Test de website in verschillende browsers en op verschillende apparaten om compatibiliteit te waarborgen.
-   - Voer een gebruikerstest uit met medestudenten om feedback te verzamelen.
+   - Voer een beperkte gebruikerstest uit met medestudenten om feedback te verzamelen.
 
 7. **Presentatie en Reflectie**
    - Elke groep moet hun website presenteren aan de klas.
