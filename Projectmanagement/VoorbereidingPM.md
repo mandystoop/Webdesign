@@ -8,6 +8,7 @@ Leer de basisprincipes van Agile Scrum en het gebruik van user stories en accept
 1. **Lees over Agile Scrum:**
    - Lees je in over Agile Scrum. Bekijk bijvoorbeeld de volgende pagina's:
     - https://www.atlassian.com/nl/agile/scrum
+    - 
 
 2. **Schrijf een samenvatting:**
    - Schrijf een korte samenvatting (ongeveer 200 woorden) van wat je hebt geleerd over Agile Scrum. Focus op de belangrijkste elementen zoals sprints, stand-ups, en retrospectives.
