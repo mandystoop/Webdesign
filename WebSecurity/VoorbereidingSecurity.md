@@ -1,5 +1,5 @@
 # Voorbereidende Opdrachten: Web Security
-
+Omdat React al actief en passief een beveiliging heeft tegen o.a. injection aanvallen gebruiken we voor deze module kale JavaScript.
 ## Doel
 Deze opdrachten helpen studenten om bekend te raken met verschillende aspecten van web security door hands-on oefeningen in JavaScript. Studenten zullen leren over input validatie, injection attacks, encryptie, en authenticatie en autorisatie.
 
