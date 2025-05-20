@@ -150,6 +150,25 @@ Leer hoe je een eenvoudige database opzet met MySQL en PHPMyAdmin, en hoe je met
 
 1. **Lees data uit de database:**
    - Voeg code toe aan `script.js` om alle studenten uit de database op te halen en weer te geven in de HTML-pagina.
+```javascript
+// Voeg deze code toe onderaan je script.js bestand om studenten weer te geven
+function fetchStudenten() {
+    fetch('http://localhost:3000/studenten')
+    .then(response => response.json())
+    .then(data => {
+        const studentenLijst = document.getElementById('studentenLijst');
+        studentenLijst.innerHTML = '';
+        data.forEach(student => {
+            const studentDiv = document.createElement('div');
+            studentDiv.textContent = `${student.naam} - ${student.leeftijd} - ${student.email}`;
+            studentenLijst.appendChild(studentDiv);
+        });
+    });
+}
+
+// Roep de functie aan om de studenten direct te tonen bij het laden van de pagina
+fetchStudenten();
+```
 
 2. **Update data in de database:**
    - Voeg een functie toe om de gegevens van een student te updaten.
