@@ -2,6 +2,15 @@
 ## Leerdoel
 Deze opdracht helpt studenten om de basisprincipes van HTML en CSS te leren en samen te werken aan het bouwen en integreren van meerdere webpagina’s tot één gezamenlijke website. Aan het einde van deze opdracht hebben studenten als groep een overkoepelende website gemaakt waarin individuele pagina’s over verschillende vakantiebestemmingen zijn geïntegreerd.
 
+### Extra Hulpbronnen
+
+Voor studenten die minder ervaring hebben met HTML en CSS zijn de volgende links handig:
+
+- [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
+- [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
+- [MDN Web Docs: HTML](https://developer.mozilla.org/nl/docs/Web/HTML)
+- [MDN Web Docs: CSS](https://developer.mozilla.org/nl/docs/Web/CSS)
+
 ## Materialen
 - Een teksteditor (bijv. Visual Studio Code, Sublime Text)
 - Een webbrowser (bijv. Google Chrome, Firefox)
