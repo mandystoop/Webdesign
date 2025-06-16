@@ -1,10 +1,10 @@
 # Opdracht: Studenten Activiteiten Planner
 
 ## Doel
-Ontwikkel een interactieve webapplicatie waarmee studenten hun activiteiten kunnen plannen en beheren. De applicatie moet gebruik maken van JavaScript zonder speciale frameworks zoals React, HTML en CSS.
+Ontwikkel een interactieve webapplicatie waarmee studenten hun activiteiten kunnen plannen en beheren. De applicatie moet gebruik maken van JavaScript zonder speciale frameworks zoals React.
 
 ## Beschrijving
-De "Studenten Activiteiten Planner" is een webapplicatie waarmee studenten hun dagelijkse, wekelijkse en maandelijkse activiteiten kunnen toevoegen, bekijken, bewerken en verwijderen. De applicatie moet een gebruiksvriendelijke interface hebben en verschillende functionaliteiten bieden om de activiteiten te beheren.
+De "Studenten Activiteiten Planner" is een webapplicatie waarmee studenten hun dagelijkse, wekelijkse en maandelijkse activiteiten kunnen toevoegen, bekijken, bewerken en verwijderen. De applicatie moet een gebruiksvriendelijke interface hebben en verschillende functionaliteiten bieden om de activiteiten te beheren. Zo kan een vriendengroep, studentenhuis of vereniging eenvoudig bijhouden wie er waar is, en eventueel meegaan.
 
 ## Functionaliteiten
 1. **Activiteiten Toevoegen**
