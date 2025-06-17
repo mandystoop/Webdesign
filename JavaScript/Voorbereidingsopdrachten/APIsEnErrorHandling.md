@@ -3,6 +3,18 @@
 ## Doel
 Leer hoe je API's gebruikt en fouten afhandelt in JavaScript door een eenvoudig programma te schrijven dat gegevens ophaalt van een API en robuuste foutafhandeling implementeert.
 
+## Wat is een API en waarom is het handig?
+
+Een **API** (Application Programming Interface) is een set afspraken waarmee verschillende softwaretoepassingen met elkaar kunnen communiceren. Je kunt het zien als een soort menukaart in een restaurant: de menukaart geeft aan wat je kunt bestellen, en de keuken (de server) zorgt ervoor dat je krijgt wat je vraagt.
+
+**Waarom is het handig om een API te kennen?**
+- Je kunt gegevens ophalen van externe bronnen, zoals weerinformatie, nieuws of gebruikersdata.
+- Je kunt jouw eigen applicaties laten samenwerken met andere diensten.
+- Het maakt je code flexibeler en uitbreidbaar, omdat je niet alles zelf hoeft te bouwen.
+- Veel moderne webapplicaties gebruiken API’s om dynamisch data te laden en te tonen.
+
+Door te leren werken met API’s kun je krachtigere en interactievere applicaties maken.
+
 ## Instructies
 1. **Maak een nieuw JavaScript-bestand:**
    - Open Visual Studio Code.

@@ -16,6 +16,11 @@ Leer de basisprincipes van client-server architecturen en hoe ze worden toegepas
     - Schets  een plaatje voor jezelf van deze architectuuraanpak.
 
 ### Praktische Opdrachten
+
+0. **Node.js Installeren:**
+  - Download en installeer Node.js vanaf [nodejs.org](https://nodejs.org/).
+  - Node.js is een JavaScript-runtime waarmee je JavaScript buiten de browser kunt uitvoeren, bijvoorbeeld op een server.
+  - Controleer na installatie of Node.js werkt door in de terminal `node -v` te typen; je zou dan de geïnstalleerde versie moeten zien.
 1. **Maak een nieuw JavaScript-bestand:**
    - Open Visual Studio Code.
    - Maak een nieuw bestand aan en sla het op als `client_server.js`.
