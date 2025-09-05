@@ -6,7 +6,10 @@ Deze opdracht helpt studenten om de basisprincipes van HTML en CSS te leren en s
 
 Voor studenten die minder ervaring hebben met HTML en CSS zijn de volgende links handig:
 
-- [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
+Als je nog nooit een HTML pagina hebt gemaakt:
+- [HTML Tutorial - W3Schools](https://www.w3schools.com/html/html_intro.asp)
+
+- [Veel HTML resources - W3Schools](https://www.w3schools.com/html/)
 - [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
 - [MDN Web Docs: HTML](https://developer.mozilla.org/nl/docs/Web/HTML)
 - [MDN Web Docs: CSS](https://developer.mozilla.org/nl/docs/Web/CSS)
