@@ -62,6 +62,9 @@ Leer hoe je event handling gebruikt in JavaScript door een interactieve quiz te 
 - **Event Listeners:** Functies die wachten op een specifieke gebeurtenis (zoals een klik) en dan een actie uitvoeren.
 
 ## Extra Oefening
+0. **Zet de javascript code in een los bestand**
+   - Zet je javascript code in een lost bestand, bijv Quiz.js.
+
 1. **Voeg meer vragen toe:**
    - Breid de quiz uit met meerdere vragen en geef feedback voor elke vraag.
 
