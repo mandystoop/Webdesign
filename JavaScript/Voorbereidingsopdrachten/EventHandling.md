@@ -1,4 +1,3 @@
-```markdown
 # Opdracht: Interactieve Quiz
 
 ## Doel
