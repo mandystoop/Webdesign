@@ -1,5 +1,3 @@
-Hier is de opdracht in Markdown-formaat:
-
 ```markdown
 # Opdracht: Interactieve Quiz
 
@@ -13,27 +11,27 @@ Leer hoe je event handling gebruikt in JavaScript door een interactieve quiz te 
 
 2. **Schrijf de HTML-structuur:**
    - Typ de volgende code in `quiz.html`:
-     ```html
-     <!DOCTYPE html>
-     <html lang="en">
-     <head>
-         <meta charset="UTF-8">
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <title>Interactie Quiz</title>
-     </head>
-     <body>
-         <h1>Quiz</h1>
-         <div id="quizContainer">
-             <p>Wat is de hoofdstad van Nederland?</p>
-             <button class="answerButton">Amsterdam</button>
-             <button class="answerButton">Rotterdam</button>
-             <button class="answerButton">Den Haag</button>
-             <button class="answerButton">Utrecht</button>
-         </div>
-         <p id="feedback"></p>
-     </body>
-     </html>
-     ```
+   ````html
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Interactie Quiz</title>
+   </head>
+   <body>
+       <h1>Quiz</h1>
+       <div id="quizContainer">
+           <p>Wat is de hoofdstad van Nederland?</p>
+           <button class="answerButton">Amsterdam</button>
+           <button class="answerButton">Rotterdam</button>
+           <button class="answerButton">Den Haag</button>
+           <button class="answerButton">Utrecht</button>
+       </div>
+       <p id="feedback"></p>
+   </body>
+   </html>
+   `````
 
 3. **Voeg JavaScript-functionaliteit toe:**
    - Voeg de volgende code toe aan `quiz.html` onderaan de `<body>` sectie:
