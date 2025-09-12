@@ -63,7 +63,7 @@ Leer hoe je event handling gebruikt in JavaScript door een interactieve quiz te 
 
 ## Extra Oefening
 0. **Zet de javascript code in een los bestand**
-   - Zet je javascript code in een lost bestand, bijv Quiz.js.
+   - Zet je javascript code in een los bestand, bijv Quiz.js.
 
 1. **Voeg meer vragen toe:**
    - Breid de quiz uit met meerdere vragen en geef feedback voor elke vraag.
